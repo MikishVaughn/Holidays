@@ -1,5 +1,4 @@
-﻿Imports System
-Imports System.Reflection
+﻿Imports System.Reflection
 Imports System.Runtime.InteropServices
 
 ' General Information about an assembly is controlled through the following
@@ -8,7 +7,7 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Holidays")>
+<Assembly: AssemblyTitle("Holidays DLL")>
 <Assembly: AssemblyDescription("Returns Dates of Holidays")>
 <Assembly: AssemblyCompany("The Mikish Group")>
 <Assembly: AssemblyProduct("Holidays")>
